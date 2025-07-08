@@ -171,7 +171,7 @@ body {
   font-weight: 400;
   font-style: normal;
   font-variation-settings:
-    "slnt" 0,
+    "slnt" 0, /*Code taken from Google, not sure what it means but showed to make font work*/
     "CRSV" 0.5,
     "ELSH" 0,
     "ELXP" 0;

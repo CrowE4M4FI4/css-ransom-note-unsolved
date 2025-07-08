@@ -40,10 +40,10 @@ This assignment should prove that a student is able to:
 - [ x] **The project's file/folder structure should NOT be edited!**
 - [ x] **The index.html file should NOT be edited!** The only acceptable change are additional classes added to elements.
 - [x ] VSCode IDE MUST have 0 problems listed
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "[w3c web validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)" VSCode extension or the "[Online w3c Markup Validation Service](https://validator.w3.org/#validate_by_input)")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "[w3c web validator](https://marketplace.visualstudio.com/items?itemName=CelianRiboulet.webvalidator)" VSCode extension or the "[Online w3c Markup Validation Service](https://validator.w3.org/#validate_by_input)")
+- [ x] The code MUST be formatted with Prettier.
+- [ x] Push the changes to the Github repo, when finished.
+- [x ] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
